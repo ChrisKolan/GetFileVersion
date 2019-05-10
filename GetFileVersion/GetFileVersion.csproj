@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Chris Kolan</Authors>
+    <PackageId>GetFileVersion</PackageId>
+  </PropertyGroup>
+
+</Project>
